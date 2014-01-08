@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<settings>
+	<console>
+		<colors>
+			<color id="0" r="253" g="246" b="227"/>  <!-- Black -->
+			<color id="1" r="147" g="161" b="161"/>  <!-- DarkBlue -->
+			<color id="2" r="133" g="153" b="0"/>  <!-- DarkGreen -->
+			<color id="3" r="147" g="161" b="161"/>  <!-- DarkCyan -->
+			<color id="4" r="220" g="50" b="47"/>  <!-- DarkRed -->
+			<color id="5" r="211" g="54" b="130"/>  <!-- DarkMagenta -->
+			<color id="6" r="203" g="75" b="22"/>  <!-- DarkYellow -->
+			<color id="7" r="101" g="123" b="131"/>  <!-- Gray: Default Text -->
+			<color id="8" r="88" g="110" b="117"/>  <!-- DarkGray -->
+			<color id="9" r="38" g="139" b="210"/>  <!-- Blue -->
+			<color id="10" r="133" g="153" b="0"/>  <!-- Green -->
+			<color id="11" r="42" g="161" b="152"/>  <!-- Cyan -->
+			<color id="12" r="220" g="50" b="47"/>  <!-- Red -->
+			<color id="13" r="211" g="54" b="130"/>  <!-- Magenta -->
+			<color id="14" r="181" g="137" b="0"/>  <!-- Yellow -->
+			<color id="15" r="7" g="54" b="66"/>  <!-- White -->
+		</colors>
+	</console>
+</settings>
