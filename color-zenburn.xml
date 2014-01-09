@@ -20,4 +20,16 @@
 			<color id="15" r="239" g="239" b="239"/>  <!-- White -->
 		</colors>w
 	</console>
+	<!-- Following tab-specific settings will not be imported automatically.
+		 You need to manually add these to console.xml	-->
+	<tabs>
+		<tab>
+			<cursor style="0" r="131" g="131" b="131"/>
+			<background type="0" r="57" g="57" b="57">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+	</tabs>
 </settings>
