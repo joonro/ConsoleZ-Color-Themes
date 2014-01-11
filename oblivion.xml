@@ -1,0 +1,36 @@
+<!-- Oblivion Color Theme for ConsoleZ -->
+<?xml version="1.0"?>
+<settings>
+	<console>
+		<colors>
+			<color id="0" r="46" g="52" b="54"/>  <!-- Black -->
+			<color id="1" r="192" g="190" b="209"/>  <!-- DarkBlue -->
+			<color id="2" r="130" g="162" b="130"/>  <!-- DarkGreen -->
+			<color id="3" r="255" g="198" b="0"/>  <!-- DarkCyan (String) -->
+			<color id="4" r="239" g="192" b="144"/>  <!-- DarkRed -->
+			<color id="5" r="220" g="163" b="163"/>  <!-- DarkMagenta -->
+			<color id="6" r="230" g="219" b="116"/>  <!-- DarkYellow -->
+			<color id="7" r="216" g="216" b="216"/>  <!-- Gray (Default Text) -->
+			<color id="8" r="199" g="221" b="12"/>  <!-- DarkGray -->
+			<color id="9" r="121" g="171" b="255"/>  <!-- Blue -->
+			<color id="10" r="166" g="226" b="46"/>  <!-- Green -->
+			<color id="11" r="190" g="214" b="255"/>  <!-- Cyan -->
+			<color id="12" r="210" g="82" b="82"/>  <!-- Red -->
+			<color id="13" r="209" g="151" b="217"/>  <!-- Magenta -->
+			<color id="14" r="255" g="198" b="0"/>  <!-- Yellow -->
+			<color id="15" r="127" g="179" b="71"/>  <!-- White (Number, Diff Text) -->
+		</colors>
+	</console>
+	<!-- Following tab-specific settings will not be imported automatically.
+		 You need to manually add these to console.xml	-->
+	<tabs>
+		<tab>
+			<cursor style="0" r="248" g="248" b="240"/>
+			<background type="0" r="46" g="52" b="54">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+	</tabs>
+</settings>
