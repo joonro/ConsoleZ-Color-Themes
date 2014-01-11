@@ -1,0 +1,36 @@
+<!-- Tomorrow Color Theme for ConsoleZ -->
+<?xml version="1.0"?>
+<settings>
+	<console>
+		<colors>
+			<color id="0" r="250" g="250" b="250"/>  <!-- Black -->
+			<color id="1" r="0" g="0" b="128"/>  <!-- DarkBlue -->
+			<color id="2" r="0" g="128" b="0"/>  <!-- DarkGreen -->
+			<color id="3" r="0" g="128" b="128"/>  <!-- DarkCyan (String) -->
+			<color id="4" r="128" g="0" b="0"/>  <!-- DarkRed -->
+			<color id="5" r="128" g="0" b="128"/>  <!-- DarkMagenta -->
+			<color id="6" r="245" g="135" b="31"/>  <!-- DarkYellow -->
+			<color id="7" r="77" g="77" b="76"/>  <!-- Gray (Default Text) -->
+			<color id="8" r="142" g="144" b="140"/>  <!-- DarkGray (Parameter) -->
+			<color id="9" r="66" g="113" b="174"/>  <!-- Blue -->
+			<color id="10" r="113" g="140" b="0"/>  <!-- Green -->
+			<color id="11" r="62" g="153" b="159"/>  <!-- Cyan -->
+			<color id="12" r="200" g="40" b="41"/>  <!-- Red -->
+			<color id="13" r="137" g="89" b="168"/>  <!-- Magenta -->
+			<color id="14" r="234" g="184" b="0"/>  <!-- Yellow -->
+			<color id="15" r="214" g="214" b="214"/>  <!-- White (Number, Diff Text) -->
+		</colors>
+	</console>
+	<!-- Following tab-specific settings will not be imported automatically.
+		 You need to manually add these to console.xml	-->
+	<tabs>
+		<tab>
+			<cursor style="0" r="214" g="214" b="214"/>
+			<background type="0" r="250" g="250" b="250">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+	</tabs>
+</settings>
