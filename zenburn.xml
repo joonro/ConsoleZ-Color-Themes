@@ -11,7 +11,7 @@
 			<color id="5" r="220" g="163" b="163"/>  <!-- DarkMagenta -->
 			<color id="6" r="220" g="140" b="108"/>  <!-- DarkYellow -->
 			<color id="7" r="248" g="248" b="242"/>  <!-- Gray (Default Text) -->
-			<color id="8" r="117" g="113" b="94"/>  <!-- DarkGray -->
+			<color id="8" r="117" g="113" b="94"/>  <!-- DarkGray (Parameter) -->
 			<color id="9" r="140" g="140" b="188"/>  <!-- Blue -->
 			<color id="10" r="156" g="204" b="156"/>  <!-- Green -->
 			<color id="11" r="140" g="208" b="211"/>  <!-- Cyan -->
