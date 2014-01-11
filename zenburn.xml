@@ -1,3 +1,4 @@
+<!-- Zenburn Color Theme for ConsoleZ -->
 <?xml version="1.0"?>
 <settings>
 	<console>
@@ -18,7 +19,7 @@
 			<color id="13" r="188" g="140" b="188"/>  <!-- Magenta -->
 			<color id="14" r="227" g="206" b="171"/>  <!-- Yellow -->
 			<color id="15" r="239" g="239" b="239"/>  <!-- White (Number, Diff Text) -->
-		</colors>w
+		</colors>
 	</console>
 	<!-- Following tab-specific settings will not be imported automatically.
 		 You need to manually add these to console.xml	-->
