@@ -4,6 +4,16 @@
 
 Color Themes for `ConsoleZ <https://github.com/cbucher/console>`_.
 
+Theme List
+==========
+
+* Monokai
+* Oblivion
+* Solarized (Dark)
+* Solarized (Light)
+* Tomorrow
+* Zenburn
+
 HowTo
 =====
 
