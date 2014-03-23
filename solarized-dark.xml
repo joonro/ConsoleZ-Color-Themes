@@ -18,14 +18,14 @@
 			<color id="12" r="220" g="50" b="47"/>  <!-- Red -->
 			<color id="13" r="211" g="54" b="130"/>  <!-- Magenta -->
 			<color id="14" r="181" g="137" b="0"/>  <!-- Yellow -->
-			<color id="15" r="238" g="232" b="213"/>  <!-- White (Number, Diff Text) -->
+			<color id="15" r="211" g="54" b="130"/>  <!-- White (Number, Diff Text) -->
 		</colors>
 	</console>
 	<!-- Following tab-specific settings will not be imported automatically.
 		 You need to manually add these to console.xml	-->
 	<tabs>
 		<tab>
-			<cursor style="0" r="7" g="54" b="66"/>
+			<cursor style="0" r="88" g="110" b="117"/>
 			<background type="0" r="0" g="43" b="54">
 				<image file="" relative="0" extend="0" position="0">
 					<tint opacity="0" r="0" g="0" b="0"/>
