@@ -22,3 +22,16 @@
 		</colors>
 	</console>
 </settings>
+    <!-- Following tab-specific settings will not be imported automatically.
+         You need to manually add these to console.xml  -->
+    <tabs>
+        <tab>
+            <cursor style="0" r="0" g="0" b="0"/>
+            <background type="0" r="255" g="255" b="255">
+                <image file="" relative="0" extend="0" position="0">
+                    <tint opacity="0" r="0" g="0" b="0"/>
+                </image>
+            </background>
+        </tab>
+    </tabs>
+</settings>
