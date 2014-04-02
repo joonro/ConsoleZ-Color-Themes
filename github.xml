@@ -4,7 +4,7 @@
 	<console>
 		<colors>
 			<color id="0" r="0" g="0" b="0"/>  <!-- Black -->
-			<color id="1" r="0" g="134" b="179"/>  <!-- DarkBlue -->
+			<color id="1" r="95" g="175" b="239"/>  <!-- DarkBlue -->
 			<color id="2" r="0" g="153" b="38"/>  <!-- DarkGreen (Git Diff) -->
 			<color id="3" r="221" g="17" b="68"/>  <!-- DarkCyan (String) -->
 			<color id="4" r="208" g="32" b="0"/>  <!-- DarkRed (Git Diff) -->
@@ -12,7 +12,7 @@
 			<color id="6" r="212" g="73" b="80"/>  <!-- DarkYellow -->
 			<color id="7" r="0" g="0" b="0"/>  <!-- Gray (Default Text) -->
 			<color id="8" r="0" g="0" b="0"/>  <!-- DarkGray (Parameter) -->
-			<color id="9" r="95" g="175" b="239"/>  <!-- Blue -->
+			<color id="9" r="0" g="134" b="179"/>  <!-- Blue -->
 			<color id="10" r="0" g="128" b="128"/>  <!-- Green -->
 			<color id="11" r="0" g="153" b="153"/>  <!-- Cyan -->
 			<color id="12" r="249" g="50" b="50"/>  <!-- Red -->
