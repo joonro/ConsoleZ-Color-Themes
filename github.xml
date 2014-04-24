@@ -3,7 +3,7 @@
 <settings>
 	<console>
 		<colors>
-			<color id="0" r="0" g="0" b="0"/>  <!-- Black -->
+			<color id="0" r="67" g="67" b="67"/>  <!-- Black -->
 			<color id="1" r="95" g="175" b="239"/>  <!-- DarkBlue -->
 			<color id="2" r="0" g="153" b="38"/>  <!-- DarkGreen (Git Diff) -->
 			<color id="3" r="221" g="17" b="68"/>  <!-- DarkCyan (String) -->
