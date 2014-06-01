@@ -1,0 +1,37 @@
+<!-- Default Color Theme for ConsoleZ -->
+<?xml version="1.0"?>
+<settings>
+	<console>
+		<colors>
+			<color id="0" r="43" g="48" b="59"/>  <!-- Black -->
+			<color id="1" r="143" g="161" b="179"/>  <!-- DarkBlue -->
+			<color id="2" r="163" g="190" b="140"/>  <!-- DarkGreen (Git Diff) -->
+			<color id="3" r="163" g="190" b="140"/>  <!-- DarkCyan (String) -->
+			<color id="4" r="191" g="97" b="106"/>  <!-- DarkRed (Git Diff) -->
+			<color id="5" r="180" g="142" b="173"/>  <!-- DarkMagenta -->
+			<color id="6" r="208" g="135" b="112"/>  <!-- DarkYellow -->
+			<color id="7" r="192" g="197" b="206"/>  <!-- Gray (Default Text) -->
+			<color id="8" r="101" g="115" b="126"/>  <!-- DarkGray (Operator, Parameter, Selection) -->
+			<color id="9" r="143" g="161" b="179"/>  <!-- Blue -->
+			<color id="10" r="163" g="190" b="140"/>  <!-- Green -->
+			<color id="11" r="143" g="161" b="179"/>  <!-- Cyan -->
+			<color id="12" r="191" g="97" b="106"/>  <!-- Red -->
+			<color id="13" r="191" g="97" b="106"/>  <!-- Magenta -->
+			<color id="14" r="235" g="203" b="139"/>  <!-- Yellow -->
+			<color id="15" r="208" g="135" b="112"/>  <!-- White (Number, Diff Text) -->
+		</colors>
+	</console>
+    <!-- Following tab-specific settings will not be imported automatically.
+         You need to manually add these to console.xml  -->
+    <tabs>
+        <tab>
+            <cursor style="0" r="79" g="91" b="102"/>
+            <background type="0" r="43" g="48" b="59">
+                <image file="" relative="0" extend="0" position="0">
+                    <tint opacity="0" r="0" g="0" b="0"/>
+                </image>
+            </background>
+        </tab>
+    </tabs>
+</settings>
+
