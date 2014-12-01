@@ -7,7 +7,7 @@ Color Themes for `ConsoleZ <https://github.com/cbucher/console>`_.
 Theme List
 ==========
 
-* `Spacegray Ocean Dark <https://github.com/kkga/spacegray>`_
+* `Spacegray <https://github.com/kkga/spacegray>`_
 * Github
 * Monokai
 * Oblivion
