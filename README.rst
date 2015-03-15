@@ -2,8 +2,15 @@
  Color Themes for ConsoleZ
 ===========================
 
-Color Themes for `ConsoleZ <https://github.com/cbucher/console>`_.
+Color Themes for `ConsoleZ <https://github.com/cbucher/console>`_. The color
+codes are based on the PowerShell Console Colors, that you can get:
 
+.. code-block:: posh
+
+   PS > [enum]::GetValues([System.ConsoleColor]) | Foreach-Object {Write-Host $_ -ForegroundColor $_}
+
+Hence it might look differently depending on the console program you use.
+   
 Theme List
 ==========
 
