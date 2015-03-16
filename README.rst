@@ -9,7 +9,10 @@ codes are based on the PowerShell Console Colors, that you can get:
 
    PS > [enum]::GetValues([System.ConsoleColor]) | Foreach-Object {Write-Host $_ -ForegroundColor $_}
 
-Hence it might look differently depending on the console program you use.
+.. note:: 
+
+   Make sure to add the background color separately (it has to be done
+   manually) to get correct colors.
    
 Theme List
 ==========
